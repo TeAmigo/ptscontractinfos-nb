@@ -1,0 +1,3 @@
+ptscontractinfos -
+Invoke with java -jar dist/ptscontractinfos.jar
+Simple 1 at a time dialog box, interacts with Postgresql DB
